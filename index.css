@@ -1,3 +1,6 @@
+body{
+    background-image: url(./assessts/black-metal-plate-texture-stainless-steel-background-with-black-gradient-and-diagonal-lines-modern-illustration-vector.jpg);
+}
 .card{
     display: flexbox;
     justify-content:space-evenly;
@@ -11,6 +14,7 @@
 }
 .cardname{
 display:flex;
+align-items: center ;
 justify-items: center   ;
 }
 .sec1{
