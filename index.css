@@ -19,6 +19,11 @@
   
     width: 50px;
 }
+.master{
+    color: azure;
+     font-weight: 500;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 .sim{
     width: 50px;
