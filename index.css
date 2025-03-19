@@ -1,3 +1,10 @@
+.card{
+    width: 300px;
+    background: #2b2b2b;
+    filter: blur(8px);
+}
+
+
 .logo{
     width: 50px;
 }
