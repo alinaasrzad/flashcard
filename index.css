@@ -1,5 +1,5 @@
 body{
-    background-image: url(./assessts/black-metal-plate-texture-stainless-steel-background-with-black-gradient-and-diagonal-lines-modern-illustration-vector.jpg);
+    background-image: url(./assessts/bubbles-liquid-black-background-macro-samsung-galaxy-s20-2560x1080-815.png) ;
 }
 .card{
     display: flexbox;
@@ -7,10 +7,10 @@ body{
     width: 25rem;
     height: 15rem;
     border-radius: 1.5rem;
-    background: #44343430;
+    background: #90858543;
     backdrop-filter: blur(degree-of-blur);
     margin-left:34rem;
-    margin-top: 15rem;  
+    margin-top: 13rem;  
 }
 .cardname{
 display:flex;
@@ -53,5 +53,5 @@ h3{
     font-weight: 600;
 }
 .date{
-
+font-weight: 800    ;
 }
